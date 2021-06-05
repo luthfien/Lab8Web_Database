@@ -72,3 +72,13 @@
 
 ![image](https://user-images.githubusercontent.com/56451391/120891364-7a73b580-c632-11eb-914c-79abfa95c2cd.png)
 
+# Mengubah Data (Update)
+
+`Buat file baru dengan nama ubah.php`
+
+![image](https://user-images.githubusercontent.com/56451391/120892041-574b0500-c636-11eb-9bbc-4ee83e303ea5.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120892134-d80a0100-c636-11eb-907f-ddc96ba51785.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120891970-d3911880-c635-11eb-9199-af9bb142738f.png)
+
