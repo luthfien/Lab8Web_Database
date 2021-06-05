@@ -82,3 +82,12 @@
 
 ![image](https://user-images.githubusercontent.com/56451391/120891970-d3911880-c635-11eb-9199-af9bb142738f.png)
 
+# Menghapus Data (Delete)
+
+`Buat file baru dengan nama hapus.php`
+
+![image](https://user-images.githubusercontent.com/56451391/120892345-0805d400-c638-11eb-9a91-295a5ebf838c.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120892523-f670fc00-c638-11eb-9b9a-6c50de369784.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120892612-6a130900-c639-11eb-937f-1a7139c5026e.png)
