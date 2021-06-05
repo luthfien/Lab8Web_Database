@@ -42,4 +42,13 @@
 
 ![image](https://user-images.githubusercontent.com/56451391/120889436-4941b800-c627-11eb-816d-598326684955.png)
 
+#  Membuat file index untuk menampilkan data (Read)
+
+`Buat file baru dengan nama index.php`
+
+![image](https://user-images.githubusercontent.com/56451391/120890891-c8d38500-c62f-11eb-94a1-3825859eb053.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120890903-d983fb00-c62f-11eb-9b72-de42d4fe0cdb.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120890879-b2c5c480-c62f-11eb-8097-7f83cde3ec2b.png)
 
