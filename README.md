@@ -42,6 +42,14 @@
 
 ![image](https://user-images.githubusercontent.com/56451391/120889436-4941b800-c627-11eb-816d-598326684955.png)
 
+# Membuat file koneksi database
+
+`Buat file baru dengan nama koneksi.php`
+
+![image](https://user-images.githubusercontent.com/56451391/120891434-d63e3e80-c632-11eb-9f00-a7ac5bb896a6.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120891443-e8b87800-c632-11eb-9f17-79cf8e72cad7.png)
+
 #  Membuat file index untuk menampilkan data (Read)
 
 `Buat file baru dengan nama index.php`
@@ -51,4 +59,16 @@
 ![image](https://user-images.githubusercontent.com/56451391/120890903-d983fb00-c62f-11eb-9b72-de42d4fe0cdb.png)
 
 ![image](https://user-images.githubusercontent.com/56451391/120890879-b2c5c480-c62f-11eb-8097-7f83cde3ec2b.png)
+
+#  Mengubah Data (Update)
+
+`Buat file baru dengan nama ubah.php`
+
+![image](https://user-images.githubusercontent.com/56451391/120891313-14872e00-c632-11eb-9ce4-e5aa63ab0a28.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120891326-308acf80-c632-11eb-9ab6-31bd6d8e9200.png)
+
+`Lihat pada tampilan web browser ,Seperti berikut :`
+
+![image](https://user-images.githubusercontent.com/56451391/120891364-7a73b580-c632-11eb-914c-79abfa95c2cd.png)
 
