@@ -26,5 +26,20 @@
 
 ![image](https://user-images.githubusercontent.com/56451391/120888904-f830c480-c624-11eb-823b-3473244bea6e.png)
 
-
 ![image](https://user-images.githubusercontent.com/56451391/120888944-22828200-c625-11eb-8244-deb74c425412.png)
+
+**Menambahkan data seperti berikut :**
+
+![image](https://user-images.githubusercontent.com/56451391/120889064-b18f9a00-c625-11eb-8722-6d2e6e2ab0a7.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120889144-f87d8f80-c625-11eb-9349-2ee345e8e6e9.png)
+
+#  Membuat Program CRUD
+
+`Buat folder lab8_php_database pada root directory web server (c:\xampp\htdocs)`
+
+![image](https://user-images.githubusercontent.com/56451391/120889407-1697bf80-c627-11eb-9f90-218bba4d74ad.png)
+
+![image](https://user-images.githubusercontent.com/56451391/120889436-4941b800-c627-11eb-816d-598326684955.png)
+
+
